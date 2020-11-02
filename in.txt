@@ -1,0 +1,14 @@
+SeqSearch   4
+1 6 4 3 -999
+
+RecSeqSearch   3
+1 6 4 3 12 18 1 4 5 6  -999
+
+BinSearch   8
+
+2 4 6 8 10 15 9 -999
+
+RecBinSearch   18
+
+2 4 6 8 10 15 18 5 2 1 -999
+
