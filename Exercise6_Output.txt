@@ -1,0 +1,51 @@
+----------------- Vector Searches -----------------
+Search Type: SeqSearch
+1 6 4 3
+Search item 4 is in position 2
+Number of item comparisons = 3
+
+Search Type: RecSeqSearch
+1 6 4 3 12 18 1 4 5 6
+Search item 3 is in position 3
+Number of item comparisons = 8
+
+Search Type: BinSearch
+2 4 6 8 10 15 9
+Number of item comparisons in bubble sort = 21
+2 4 6 8 9 10 15
+Search item 8 is in position 3
+Number of item comparisons = 1
+
+Search Type: RecBinSearch
+2 4 6 8 10 15 18 5 2 1
+Number of item comparisons in bubble sort = 45
+1 2 2 4 5 6 8 10 15 18
+Search item 18 is in position 9
+Number of item comparisons = 4
+
+------------------ Map Searches ------------------
+Search Type: SeqSearch
+1 6 4 3
+Search item 4 is in position 2
+Number of item comparisons = 3
+
+Search Type: RecSeqSearch
+1 6 4 3 12 18 1 4 5 6
+Search item 3 is in position 3
+Number of item comparisons = 8
+
+Search Type: BinSearch
+2 4 6 8 10 15 9
+Number of item comparisons in bubble sort = 21
+2 4 6 8 9 10 15
+Search item 8 is in position 3
+Number of item comparisons = 1
+
+Search Type: RecBinSearch
+2 4 6 8 10 15 18 5 2 1
+Number of item comparisons in bubble sort = 45
+1 2 2 4 5 6 8 10 15 18
+Search item 18 is in position 9
+Number of item comparisons = 4
+
+Program ended with exit code: 0
